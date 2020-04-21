@@ -38,5 +38,8 @@
   },
   "bugs": {
     "url": "https://gitlab.com/ahojukka5/react-stackedbarchart/issues"
+  },
+  "devDependencies": {
+    "nwb": "^0.24.5"
   }
 }
